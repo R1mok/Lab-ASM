@@ -1,0 +1,3000 @@
+rm .pass1.swp
+#1620988737
+vi pass1
+#1620988787
+ls
+#1620988790
+ls -la
+#1620988796
+rm .pass.swp
+#1620988797
+ls
+#1620988802
+diff pass pass1
+#1620988815
+./prog3 c pass out
+#1620988823
+./prog3 d out pass1
+#1620988828
+diff pass pass1
+#1620988835
+vi pass1
+#1620988849
+ls -la
+#1620988856
+rm .pass1.swp
+#1620988857
+ls
+#1620988863
+vi pass1
+#1620988873
+rm .pass1.swp
+#1620988874
+ls
+#1620988877
+ls -la
+#1620988881
+diff pass pass1
+#1620988889
+vi out
+#1620988895
+ls
+#1620988897
+ls -la
+#1620988904
+rm .out.swp
+#1620988907
+ls
+#1620988908
+nano file
+#1620988916
+vi file
+#1620988923
+vi file
+#1620988926
+vi file
+#1620988939
+nano file
+#1620988947
+vi file
+#1620988954
+nano file
+#1620988958
+vi file
+#1620988968
+./prog3 c file out1
+#1620988972
+./prog3 d out1 file1
+#1620988975
+diff file file1
+#1620988979
+vi file
+#1620988982
+vi file1
+#1620989004
+vi out
+#1620989010
+vi out1
+#1620989018
+nano prog3.s
+#1620989108
+ls -la
+#1620989113
+clear
+#1620989114
+ls
+#1620989124
+rm file1 out1 out pass1
+#1620989124
+ls
+#1620989130
+nano file
+#1620989134
+vi file
+#1620989148
+vi file1
+#1620989152
+ls
+#1620989160
+./prog3 c file out1
+#1620989165
+vi out1
+#1620989175
+vi file
+#1620989180
+vi out1
+#1620989193
+nano file
+#1620989201
+vi file
+#1620989226
+nano prog3.s
+#1620989501
+vi file1
+#1620989539
+cp pass /etc/passwd
+#1620989547
+cp /etc/passwd pass
+#1620989550
+nano pass
+#1620989558
+./prog3 c pass out
+#1620989566
+./prog3 d out pass1
+#1620989570
+diff pass pass1
+#1620989616
+more /etc/passwd
+#1620989638
+head -100 /etc/passwd
+#1620989658
+head -90 /etc/passwd
+#1620989667
+head -95 /etc/passwd
+#1620989687
+head -94 /etc/passwd | tail -1
+#1620989696
+head -94 /etc/passwd | tail -1 | od -c
+#1620989987
+ls
+#1620990000
+./prog3 c pass out
+#1620990006
+./prog3 d out pass1
+#1620990013
+diff pass pass1
+#1620990028
+cp /etc/passwd
+#1620990031
+cp /etc/passwd pass
+#1620990039
+./prog3 c pass out
+#1620990048
+./prog3 d out pass1
+#1620990056
+diff pass pass1
+#1620986993
+cd prog3
+#1620986994
+ls
+#1620987007
+ls
+#1620987016
+rm out out1
+#1620987018
+ls
+#1620987021
+nano file
+#1620987023
+nano file1
+#1620987027
+nano file
+#1620987030
+nano file1
+#1620987037
+rm file1 file2
+#1620987038
+ls
+#1620987042
+nano file
+#1620987046
+nano pass
+#1620987057
+./prog3 c pass pass_out
+#1620987064
+ls -la
+#1620987087
+./prog3 d pass_out pass1
+#1620987092
+ls -la
+#1620987105
+diff pass pass1
+#1620987191
+nano pass1
+#1620987194
+nano pass
+#1620987203
+nano file
+#1620987227
+ls
+#1620987232
+rm pass pass1
+#1620987233
+ls
+#1620987240
+./prog3 c file out
+#1620987243
+nano out
+#1620987252
+ls -la
+#1620987264
+./prog3 d out file1
+#1620987267
+diff file file1
+#1620987300
+nano file
+#1620987304
+diff file file1
+#1620987309
+nano file
+#1620987314
+nano file1
+#1620987318
+diff file file1
+#1620987335
+nano file
+#1620987342
+diff file file1
+#1620987346
+ls
+#1620987349
+rm file1
+#1620987354
+nano file
+#1620987365
+./prog3 c file out
+#1620987377
+ls
+#1620987386
+./prog3 d out file1
+#1620987389
+diff file file1
+#1620987393
+nano file1
+#1620987396
+nano file
+#1620987401
+diff file file1
+#1620987404
+nano file
+#1620987407
+nano file1
+#1620987414
+nano file
+#1620987420
+diff file file1
+#1620987441
+ls
+#1620987444
+rm file1 out
+#1620987445
+ls
+#1620987454
+rm pass_out
+#1620987455
+ls
+#1620987471
+cp pass /etc/passwd
+#1620987482
+cp /etc/passwd pass
+#1620987484
+ls
+#1620987486
+nano pass
+#1620987515
+nano pass
+#1620987538
+./prog3 c pass out
+#1620987544
+./prog3 d out pass1
+#1620987546
+diff pass pass1
+#1620987580
+nano pass
+#1620987597
+./prog3 c pass out
+#1620987601
+./prog3 d out pass1
+#1620987606
+diff pass pass1
+#1620987615
+diff pass /etc/passwd
+#1620988215
+ls
+#1620988219
+nano pass
+#1620988231
+./prog3 c pass out
+#1620988239
+./prog3 d out pass1
+#1620988243
+diff pass pass1
+#1620988274
+vi pass
+#1620988288
+vi pass1
+#1621189751
+ls
+#1621189755
+ls -la
+#1621189763
+rm prog3.s.save
+#1621189764
+ls
+#1621189768
+cd ..
+#1621189768
+ls
+#1621189775
+mkdir prog4
+#1621189776
+ls
+#1621189778
+cd prog4
+#1621189779
+ls
+#1621189780
+cd 
+#1621189782
+cd ...
+#1621189783
+cd ..
+#1621189798
+cd ..
+#1621189798
+cd ..
+#1621189799
+ls
+#1621189807
+cd home
+#1621189808
+ls
+#1621189814
+cd aisd
+#1621189815
+ls
+#1621189820
+cd abv
+#1621189822
+ls
+#1621189826
+ls -la
+#1621189827
+cd ..
+#1621189828
+ls
+#1621189834
+cd ..
+#1621189836
+ls
+#1621189846
+cd info
+#1621189847
+ls
+#1621189850
+cd asm
+#1621189851
+ls
+#1621189869
+ nano prog14
+#1621189876
+ls
+#1621189880
+cd prog14
+#1621189881
+ls
+#1621189887
+nano prog14.s
+#1621189898
+cd ..
+#1621189899
+cd ..
+#1621189901
+cd ..
+#1621189901
+ls
+#1621189905
+cd student
+#1621189905
+ls
+#1621189917
+cd b19513/b1951306
+#1621189941
+cp /info/asm/prog14/prog14.s prog4
+#1621189942
+ls
+#1621189947
+cd prog4
+#1621189948
+ls
+#1621189955
+nano prog14.s
+#1621189970
+cp /info/asm/prog14/Makefile Makefile
+#1621189971
+ls
+#1621190445
+make
+#1621190456
+arm64-run ./prog4
+#1621190459
+arm64-run ./prog4.c
+#1621190460
+arm64-run ./prog4.s
+#1621190464
+arm64-run ./prog4
+#1621190470
+ls
+#1621190480
+arm64-run ./prog14.s
+#1621190482
+arm64-run ./prog14
+#1621190534
+ls
+#1621190557
+nano Makefile
+#1621190579
+make
+#1621190591
+touch prog4.s
+#1621190595
+nano prog4.
+#1621190599
+nano prog4.s
+#1621193239
+ды
+#1621193240
+ls
+#1621193242
+make
+#1621193256
+nano prog4.s
+#1621193516
+make
+#1621193829
+make
+#1621193880
+make
+#1621193924
+make
+#1621193944
+make
+#1621194387
+nano prog14.s
+#1621194411
+make
+#1621194428
+./prog4
+#1621194679
+./prog4
+#1621190425
+cd prog4
+#1621190426
+ls
+#1621190489
+arm-debug
+#1621190495
+arm64-debug
+#1621190607
+nano prog14.s
+#1621193281
+nano prog4.s
+#1621193512
+make
+#1621193520
+nano prog4.s
+#1621193821
+nano prog4.s
+#1621240110
+cd prog4
+#1621240110
+ls
+#1621240115
+./prog4
+#1621240127
+nano prog4.s
+#1621240135
+make
+#1621240137
+./prog4
+#1621240153
+./prog4
+#1621240172
+./prog4
+#1621240179
+./prog4
+#1621240190
+nano prog4.
+#1621240193
+nano prog4.s
+#1621240209
+make
+#1621240212
+./prog4.s
+#1621240214
+./prog4
+#1621240220
+./prog4
+#1621240227
+make
+#1621240230
+nano prog4.s
+#1621240260
+nano prog4.s
+#1621240267
+make
+#1621240269
+./prog4
+#1621240275
+./prog4
+#1621240281
+nano prog4.s
+#1621240286
+make
+#1621240287
+nano prog4.s
+#1621240295
+make
+#1621240297
+./prog4
+#1621240305
+nano prog4.s
+#1621240314
+make
+#1621240318
+./prog4
+#1621240324
+./prog4
+#1621240331
+./prog4
+#1621240334
+./prog4
+#1621240340
+./prog4
+#1621240357
+nano prog4.s
+#1621240410
+make
+#1621240413
+./prog4
+#1621240430
+nano prog4.s
+#1621240603
+make
+#1621240605
+./prog4
+#1621240619
+./prog4
+#1621240627
+nano prog4.s
+#1621240639
+nano prog4.s
+#1621240651
+make
+#1621240653
+./prog4
+#1621261912
+cd prog4
+#1621261926
+nano prog14.s
+#1621261900
+cd prog4
+#1621261901
+ls
+#1621261916
+nano prog4,s
+#1621261921
+nano prog4.s
+#1621262419
+make
+#1621262425
+./prog4
+#1621262441
+nano prog4.s
+#1621263513
+make
+#1621263516
+nano prog4.s
+#1621263556
+make'
+#1621263559
+make
+#1621263562
+./prog4
+#1621263568
+./prog4
+#1621263577
+nano prog4.s
+#1621263591
+nano prog4.s
+#1621263614
+make
+#1621263617
+./prog4
+#1621583452
+cd prog4
+#1621583453
+ls
+#1621583465
+./prog4
+#1621583475
+rm prog4..save
+#1621583482
+rm prog4.s.save
+#1621583483
+ls
+#1621583490
+nano prog4.s
+#1621583569
+ls
+#1621583570
+ls -la
+#1621583573
+make
+#1621583578
+./prog4 
+#1621583585
+nano prog4.s
+#1621583611
+make
+#1621583614
+./prog4 
+#1621583627
+nano prog4.s
+#1621583708
+make
+#1621583712
+./prog4
+#1621583716
+nano prog4.s
+#1621583724
+make
+#1621583726
+./prog4
+#1621583735
+nano prog4.s
+#1621583759
+arm64-run ./prog4
+#1621583805
+arm64-run ./prog4
+#1621583749
+cd prog4
+#1621583749
+ls
+#1621583764
+arm64-debug
+#1621583811
+arm64-debug
+#1621583960
+make
+#1621583962
+./prog4
+#1621583979
+make
+#1621583982
+./prog4
+#1621583990
+make
+#1621583992
+./prog4
+#1621584000
+make
+#1621584001
+./prog4
+#1621584014
+make
+#1621584015
+./prog4
+#1621584046
+make
+#1621584048
+./prog4
+#1621584080
+make
+#1621584081
+./prog4
+#1621584094
+make
+#1621584096
+./prog4
+#1621584103
+make
+#1621584106
+./prog4
+#1621584111
+./prog4
+#1621584120
+make
+#1621584122
+./prog4
+#1621584139
+make
+#1621584141
+./prog4
+#1621584153
+make
+#1621584154
+./prog4
+#1621584160
+make
+#1621584163
+./prog4
+#1621593386
+~cd prog4
+#1621593391
+cd prog4
+#1621593393
+ls
+#1621593394
+make
+#1621593397
+./prog4
+#1621583791
+cd prog4
+#1621583792
+ls
+#1621583795
+nano prog4.s
+#1621583972
+nano prog4.s
+#1621615325
+make
+#1621615379
+make
+#1621615382
+./prog4
+#1621615386
+./prog4
+#1621615474
+cd ..
+#1621615475
+cd ..
+#1621615476
+cd ..
+#1621615477
+ls
+#1621615486
+cd ..
+#1621615487
+ls
+#1621615493
+cd info
+#1621615495
+ls
+#1621615498
+cd ..
+#1621615507
+cd student
+#1621615508
+ls
+#1621615514
+cd info
+#1621615515
+ls
+#1621615521
+cd asm
+#1621615521
+ls
+#1621615528
+nano prog15
+#1621615531
+nano prog15.s
+#1621615534
+ls
+#1621615538
+cd prog15
+#1621615538
+ls
+#1621615656
+nano prog15.s
+#1621618923
+cd prog4
+#1621618928
+arm64-run ./prog4
+#1621620116
+arm64-run ./prog4
+#1621620594
+arm64-run ./prog4
+#1621620855
+arm64-run ./prog4
+#1621620901
+arm64-run ./prog4
+#1621621211
+arm64-run ./prog4
+#1621621877
+arm64-run ./prog4
+#1621624241
+cd prog
+#1621624243
+ls
+#1621624246
+cd prog4
+#1621624248
+ls
+#1621624081
+cd prog4
+#1621624088
+arm64-run ./prog4
+#1621624223
+arm64-run ./prog4
+#1621624277
+cd prog4
+#1621624285
+arm64-run ./prog4
+#1621624293
+arm64-run ./prog4
+#1621624515
+arm64-run ./prog4
+#1621624936
+cp lab15 ./student/info/asm/prog15/prog15.s
+#1621624941
+cd ..
+#1621624942
+cd ..
+#1621624943
+cd .. 
+#1621624945
+cd ..
+#1621624946
+ls
+#1621624951
+cd student
+#1621624952
+ls
+#1621624955
+cd info
+#1621624956
+ls
+#1621624971
+cd asm
+#1621624973
+ls
+#1621624976
+cd ..
+#1621624978
+cd ..
+#1621625017
+cp /b19513/b1951306/lab15.s /info/asm/prog15/prog15.s
+#1621625024
+cp /b19513/b1951306/ /info/asm/prog15/prog15.s
+#1621625035
+cp /b19513/b1951306/lab /info/asm/prog15/prog15.s
+#1621625044
+cp ./b19513/b1951306/lab /info/asm/prog15/prog15.s
+#1621625069
+cp /info/asm/prog15/prog15.s /b19513/b1951306/prog4/lab15
+#1621625075
+cp /info/asm/prog15/prog15.s /b19513/b1951306/prog4/l
+#1621625077
+cp /info/asm/prog15/prog15.s /b19513/b1951306/prog4/
+#1621625112
+cp info/asm/prog15/prog15.s b19513/b1951306/prog4/
+#1621628678
+cd prog4
+#1621628685
+arm64-run ./prog4
+#1621628908
+arm64-run ./prog4
+#1621629143
+arm64-run ./prog4
+#1621629186
+q
+#1621629187
+arm64-run ./prog4
+#1621629353
+arm64-run ./prog4
+#1621629603
+arm64-run ./prog4
+#1621629646
+arm64-run ./prog4
+#1621629760
+arm64-run ./prog4
+#1621624260
+cd prog4
+#1621624261
+ls
+#1621624265
+nano prog4.s
+#1621624510
+make
+#1621624599
+./prog4
+#1621624608
+ls
+#1621624613
+nano logfile
+#1621624740
+ls
+#1621624745
+./prog4
+#1621624748
+ls
+#1621624751
+rm logfile
+#1621624758
+nano prog4.s
+#1621625268
+make
+#1621625282
+nano prog4.s
+#1621625412
+make
+#1621625415
+./prog4
+#1621625419
+nano prog4.s
+#1621626015
+make
+#1621626018
+./prog4
+#1621626028
+nano prog4.s
+#1621626048
+make
+#1621626050
+./prog4
+#1621626053
+nano prog4.s
+#1621626155
+make
+#1621626157
+./prog4
+#1621626162
+nano prog4.s
+#1621626271
+make
+#1621626273
+./prog4
+#1621626277
+nano prog4.s
+#1621626315
+make
+#1621626317
+./prog4
+#1621626323
+nano prog4.s
+#1621626330
+make
+#1621626332
+nano prog4.s
+#1621626335
+./prog4
+#1621626339
+nano prog4.s
+#1621626366
+make
+#1621626369
+./prog4
+#1621626373
+nano prog4.s
+#1621626384
+make
+#1621626387
+./prog4
+#1621626393
+nano prog4.s
+#1621626986
+make
+#1621626989
+./prog4
+#1621627003
+nano prog4.s
+#1621627310
+ьфлу
+#1621627311
+make
+#1621627313
+./prog4
+#1621627317
+nano prog4.s
+#1621627375
+make
+#1621627377
+./prog4
+#1621627388
+nano prog4.s
+#1621627406
+make
+#1621627408
+./prog4
+#1621627414
+nano prog4.s
+#1621627534
+make
+#1621627536
+./prog4
+#1621627545
+./prog4
+#1621627550
+nano prog4.s
+#1621627592
+ls
+#1621627596
+nano prog4.s
+#1621627902
+make
+#1621627904
+./prog4
+#1621627907
+nano prog4.s
+#1621628110
+make
+#1621628115
+nano prog4.s
+#1621628121
+make
+#1621628123
+./prog4
+#1621628127
+ls
+#1621628131
+nano logfile
+#1621628136
+nano prog4.s
+#1621628164
+make
+#1621628166
+./prog4 
+#1621628170
+nano prog4.s
+#1621628190
+make
+#1621628192
+./prog4 
+#1621628195
+nano prog4.s
+#1621628665
+make
+#1621628668
+./prog4
+#1621628693
+arm64-debug
+#1621628911
+arm64-debug
+#1621629146
+arm64-debug
+#1621629192
+arm64-debug
+#1621629355
+arm64-debug
+#1621629605
+arm64-debug
+#1621629632
+./prog4
+#1621629650
+arm64-debug
+#1621629761
+arm64-debug
+#1621628706
+cd prog3
+#1621628708
+cd .
+#1621628711
+cd prog4
+#1621628712
+ls
+#1621628723
+nano logfile
+#1621628727
+nano prog4.s
+#1621629138
+make
+#1621629149
+nano prog4.s
+#1621629596
+make
+#1621629598
+nano prog4.s
+#1621629748
+make
+#1621629751
+nano prog4.s
+#1621631088
+вы
+#1621631336
+arm64-run ./prog4
+#1621631094
+cd prog4
+#1621631095
+ls
+#1621631099
+nano prog14.s
+#1621631349
+arm64-debug
+#1621624272
+cd prog4
+#1621624299
+arm64-debug
+#1621624517
+arm64-debug
+#1621625087
+cd ..
+#1621625088
+cd ..
+#1621625088
+cd ..
+#1621625089
+cd ..
+#1621625100
+cd student
+#1621625105
+ls
+#1621625118
+cd b19513
+#1621625126
+cd b1951306/prog4
+#1621625126
+ls
+#1621625131
+nano prog15.s
+#1621628430
+cd ..
+#1621628431
+cd ..
+#1621628432
+cd ..
+#1621628434
+ls
+#1621628439
+cd info
+#1621628439
+ls
+#1621628441
+cd asm
+#1621628442
+ls
+#1621628445
+cd prog16
+#1621628445
+ls
+#1621628450
+nano prog16.s
+#1621628516
+cd ..
+#1621628516
+ls
+#1621628519
+cd prog17
+#1621628520
+ls
+#1621628532
+nano prog17.c
+#1621628542
+cd ..
+#1621628543
+ls
+#1621628548
+cd prog18
+#1621628553
+cd prog15
+#1621628553
+ls
+#1621628558
+nano file
+#1621628568
+cd ..
+#1621628569
+ls
+#1621628573
+cd prog14
+#1621628578
+ls
+#1621628581
+nano prog14.s
+#1621630068
+cd ..
+#1621630070
+cd ..
+#1621630071
+cd ..
+#1621630072
+ls
+#1621630076
+cd b19513
+#1621630078
+cd b1951303
+#1621630080
+ls
+#1621630098
+cd prog4
+#1621630099
+ls
+#1621630111
+nano prog4.s
+#1621630207
+cd ..
+#1621630208
+cd ..
+#1621630209
+cd ..
+#1621630210
+cd ..
+#1621630330
+ls
+#1621630338
+cd student
+#1621630338
+ls
+#1621630341
+cd info
+#1621630342
+ls
+#1621630347
+cd asm/prog15
+#1621630348
+ls
+#1621630353
+nano prog15.s
+#1621684412
+cd prog4
+#1621684421
+arm64-run ./prog4
+#1621684425
+arm64-run ./prog4
+#1621684530
+make
+#1621684534
+arm64-run ./prog4
+#1621684969
+ls
+#1621684978
+cat logfile->
+#1621684980
+cat logfile
+#1621684986
+cat prog4.s
+#1621685127
+arm64-run ./prog4[A
+#1621686403
+ls -la
+#1621686466
+ls
+#1621686469
+rm logfile
+#1621686483
+nano prog4.s
+#1621686531
+arm64-run ./prog4
+#1621687125
+arm64-run ./prog4
+#1621687222
+arm64-run ./prog4
+#1621683910
+cd prog4
+#1621684324
+sl
+#1621684326
+ls
+#1621684332
+nano core
+#1621684334
+ls
+#1621684336
+rm core
+#1621684337
+ls
+#1621684341
+nano logfile
+#1621684346
+rm logfile
+#1621684353
+nano prog4.s
+#1621684920
+ls
+#1621684924
+nano logfilw
+#1621684926
+nano logfile
+#1621684930
+nano logfile
+#1621684934
+nano prog4.s
+#1621685122
+make
+#1621685733
+ды
+#1621685736
+ls
+#1621685739
+nano logfile
+#1621685745
+./prog4
+#1621685752
+ls
+#1621685759
+nano logfile
+#1621686105
+nano prog4.s
+#1621686141
+make
+#1621686146
+./prog4
+#1621686268
+nano prog4.s
+#1621686334
+make
+#1621686338
+nano prog4.s
+#1621686354
+make
+#1621686356
+./prog4
+#1621686374
+ls
+#1621686379
+cat logfile
+#1621686388
+nano logfile
+#1621686474
+clear
+#1621686589
+nano prog4.s
+#1621686647
+nano logfile
+#1621686650
+cat logfile
+#1621686725
+cat logfile
+#1621686864
+cat logfile
+#1621686900
+nano prog4.s
+#1621687121
+clear
+#1621687122
+make
+#1621687173
+ls
+#1621687176
+
+#1621687207
+nano prog4.s
+#1621687219
+make
+#1621687443
+ls -la
+#1621687451
+nano logfile
+#1621687464
+make
+#1621687472
+./prog4
+#1621687492
+nano prog4.s
+#1621687598
+make
+#1621687601
+./prog4.s
+#1621687602
+./prog4
+#1621687606
+ls -la
+#1621687611
+nano logfile
+#1621687616
+nano prog4.s
+#1621687655
+nano prog4.s
+#1621687796
+make
+#1621687797
+./prog4
+#1621687804
+nano prog4.s
+#1621687813
+nano prog4.s
+#1621687816
+nano prog4.s
+#1621687827
+ls -la
+#1621687833
+rm logfile
+#1621687835
+nano prog4.s
+#1621687852
+make
+#1621687855
+./prog4
+#1621687860
+nano prog4.s
+#1621687878
+make
+#1621687881
+./prog4
+#1621687885
+nano prog4.s
+#1621687897
+make
+#1621687900
+./prog4
+#1621688234
+make
+#1621688236
+./prog4
+#1621688260
+nano prog4.s
+#1621688382
+make
+#1621688386
+./prog4
+#1621688394
+nano prog4.s
+#1621688414
+make
+#1621688416
+./prog4
+#1621688425
+nano prog4.s
+#1621688431
+make
+#1621688433
+./prog4
+#1621688435
+nano prog4.s
+#1621688503
+make
+#1621688509
+./prog4
+#1621688512
+nano prog4.s
+#1621688522
+make
+#1621688524
+./prog4
+#1621688529
+./prog4
+#1621688533
+nano prog4.s
+#1621688562
+make
+#1621688565
+./prog4
+#1621688568
+nano prog4.s
+#1621688576
+make
+#1621688578
+./prog4
+#1621688581
+./prog4
+#1621688584
+nano prog4.s
+#1621688693
+make
+#1621688696
+./prog4
+#1621688701
+nano prog4.s
+#1621688711
+make
+#1621688713
+./prog4
+#1621688716
+nano prog4.s
+#1621688770
+make
+#1621688773
+./prog4
+#1621688781
+nano prog4.s
+#1621688788
+make
+#1621688789
+./prog4
+#1621688793
+make
+#1621688796
+nano prog4.s
+#1621688827
+make
+#1621688829
+./prog4
+#1621688833
+nano prog4.s
+#1621688839
+make
+#1621688841
+./prog4
+#1621688846
+nano prog4.s
+#1621688851
+make
+#1621688853
+./prog4
+#1621688863
+nano prog4.s
+#1621688871
+make
+#1621688873
+./prog4
+#1621688877
+nano prog4.s
+#1621688887
+make
+#1621688891
+./prog4
+#1621688894
+nano prog4.s
+#1621690552
+ls -la
+#1621691047
+ls -la
+#1621691137
+nano prog4.s
+#1621691217
+make
+#1621691218
+./prog4
+#1621691356
+nano prog4.s
+#1621691515
+ls -la
+#1621691635
+nano prog4.s
+#1621691649
+make
+#1621691652
+./prog4
+#1621691665
+nano prog4.s
+#1621691671
+make
+#1621691699
+make
+#1621691700
+./prog4
+#1621691705
+nano prog4.s
+#1621691716
+make
+#1621691717
+nano prog4.s
+#1621691720
+./prog4
+#1621691723
+nano prog4.s
+#1621691731
+make
+#1621691734
+./prog4
+#1621691742
+nano prog4.s
+#1621691751
+make
+#1621691754
+./prog4
+#1621691758
+nano prog4.s
+#1621692246
+make
+#1621692249
+./prog4
+#1621692251
+./prog4
+#1621692255
+nano prog4.s
+#1621692373
+make
+#1621692375
+./prog4
+#1621692381
+nano prog4.s
+#1621692390
+make
+#1621688376
+cd prog4
+#1621688913
+arm64-run ./prog4
+#1621689426
+arm64-run ./prog4
+#1621689429
+arm64-run ./prog4
+#1621690239
+arm64-run ./prog4
+#1621691025
+arm64-run ./prog4
+#1621691028
+arm64-run ./prog4
+#1621691227
+arm64-run ./prog4
+#1621691252
+arm64-run ./prog4
+#1621691879
+arm64-run ./prog4
+#1621692393
+arm64-run ./prog4
+#1621684405
+cd prog4
+#1621684419
+make
+#1621684430
+arm64-debug
+#1621684539
+arm64-debug
+#1621685130
+arm64-debug
+#1621686533
+arm64-debug
+#1621687126
+q
+#1621687129
+arm64-debug
+#1621687224
+arm64-debug
+#1621687745
+nano prog4.s
+#1621688923
+arm64-debug
+#1621689431
+arm64-debug
+#1621690245
+arm64-debug
+#1621691030
+arm64-debug
+#1621691228
+arm64-debug
+#1621691253
+arm64-debug
+#1621691881
+arm64-debug
+#1621692395
+arm64-debug
+#1621871504
+make
+#1621871510
+./prog4
+#1621871514
+./prog4
+#1621873190
+cd prog4
+#1621873193
+arm64-run ./prog4
+#1621873358
+arm64-run ./prog4
+#1621878932
+cd ..
+#1621878933
+cd ..
+#1621878934
+ls
+#1621878938
+cd info
+#1621878939
+ls
+#1621878944
+cd asm
+#1621878945
+ls
+#1621878949
+cd prog15
+#1621878950
+ls
+#1621878953
+nano prog15.s
+#1621873386
+cd prog4
+#1621873457
+arm64-run ./prog4
+#1621873561
+arm64-run ./prog4
+#1621873647
+arm64-run ./prog4
+#1621873957
+arm64-run ./prog4
+#1621874342
+arm64-run ./prog4
+#1621874624
+arm64-run ./prog4
+#1621874697
+arm64-run ./prog4
+#1621875029
+arm64-run ./prog4
+#1621875124
+make
+#1621875126
+arm64-run ./prog4
+#1621875616
+arm64-run ./prog4
+#1621876856
+arm64-run ./prog4
+#1621876912
+q
+#1621876929
+arm64-run ./prog4
+#1621877010
+arm64-run ./prog4
+#1621877081
+
+#1621877091
+arm64-run ./prog4
+#1621877198
+arm64-run ./prog4
+#1621877340
+arm64-run ./prog4
+#1621877458
+arm64-run ./prog4
+#1621877570
+arm64-run ./prog4
+#1621878046
+arm64-run ./prog4
+#1621878115
+arm64-run ./prog4
+#1621878199
+arm64-run ./prog4
+#1621878430
+arm64-run ./prog4
+#1621878466
+arm64-run ./prog4
+#1621878628
+arm64-run ./prog4
+#1621879148
+arm64-run ./prog4
+#1621879487
+arm64-run ./prog4
+#1621879537
+arm64-run ./prog4
+#1621879620
+arm64-run ./prog4
+#1621879807
+make
+#1621879809
+arm64-run ./prog4
+#1621880622
+clear
+#1621880693
+make
+#1621880739
+make
+#1621880761
+cd prog4
+#1621880763
+ls
+#1621880767
+nano core
+#1621880798
+vi core
+#1621880807
+ls
+#1621880811
+ls -la
+#1621880828
+rm .core.swp core prog4.s.save
+#1621880830
+ls
+#1621880837
+nano logfile
+#1621880992
+ls -la
+#1621880996
+rm logfile
+#1621881170
+ls
+#1621881173
+nano logfile
+#1621881230
+nano logfile
+#1621882238
+ls
+#1621882240
+ls -la
+#1621882249
+rm logfile
+#1621882003
+cd prog4
+#1621882042
+make
+#1621882048
+./prog4
+#1621882175
+./prog4
+#1621882194
+make
+#1621882196
+./prog4
+#1621882204
+make
+#1621882205
+./prog4
+#1621882210
+make
+#1621882212
+./prog4
+#1621882227
+make
+#1621882230
+./prog4
+#1621882299
+make
+#1621882302
+./prog4
+#1621882330
+make
+#1621882331
+./prog4
+#1621882432
+make
+#1621882434
+./prog4
+#1621882550
+make
+#1621882552
+./prog4
+#1621882590
+make
+#1621882591
+./prog4
+#1621882622
+arm64-run ./prog4
+#1621882628
+arm64-run ./prog4
+#1621883089
+arm64-run ./prog4
+#1621883277
+arm64-run ./prog4
+#1621883281
+arm64-run ./prog4
+#1621883719
+arm64-run ./prog4
+#1621884569
+arm64-run ./prog4
+#1621884901
+arm64-run ./prog4
+#1621885390
+arm64-run ./prog4
+#1621885392
+arm64-run ./prog4
+#1621885837
+arm64-run ./prog4
+#1621886339
+arm64-run ./prog4
+#1621886730
+arm64-run ./prog4
+#1621887115
+arm64-run ./prog4
+#1621887402
+arm64-run ./prog4
+#1621873403
+cd prog4.
+#1621873406
+cd prog4
+#1621873460
+arm64-debuf
+#1621873461
+arm64-debug
+#1621873557
+make
+#1621873563
+arm64-debug
+#1621873645
+make
+#1621873649
+arm64-debug
+#1621873685
+./prog4 
+#1621873950
+./prog4 
+#1621873960
+arm64-debug
+#1621874328
+make
+#1621874339
+make
+#1621874347
+arm64-debug
+#1621874625
+arm64-debug
+#1621874693
+make
+#1621874698
+arm64-debug
+#1621875026
+make
+#1621875031
+arm64-debug
+#1621875127
+arm64-debug
+#1621875293
+make
+#1621875610
+make
+#1621875617
+arm64-debug
+#1621876853
+make
+#1621876857
+make
+#1621876859
+arm64-debug
+#1621876927
+make
+#1621876933
+arm64-debug
+#1621877007
+make
+#1621877013
+make
+#1621877014
+arm64-debug
+#1621877089
+make
+#1621877092
+make
+#1621877094
+arm64-debug
+#1621877197
+make
+#1621877202
+arm64-debug
+#1621877338
+make
+#1621877342
+arm64-debug
+#1621877453
+make
+#1621877460
+arm64-debug
+#1621877568
+make
+#1621877571
+arm64-debug
+#1621878044
+make
+#1621878048
+make
+#1621878050
+arm64-debug
+#1621878113
+make
+#1621878116
+make
+#1621878117
+arm64-debug
+#1621878197
+make
+#1621878200
+make
+#1621878202
+arm64-debug
+#1621878398
+make
+#1621878408
+make
+#1621878427
+make
+#1621878432
+arm64-debug
+#1621878464
+make
+#1621878468
+arm64-debug
+#1621878626
+make
+#1621878630
+arm64-debug
+#1621879130
+make
+#1621879147
+make
+#1621879151
+make
+#1621879152
+make
+#1621879154
+arm64-debug
+#1621879484
+make
+#1621879488
+make
+#1621879490
+arm64-debug
+#1621879535
+make
+#1621879538
+make
+#1621879539
+arm64-debug
+#1621879619
+make
+#1621879623
+arm64-debug
+#1621879812
+arm64-debug
+#1621879862
+./prog4
+#1621879987
+make
+#1621879991
+./prog4
+#1621880034
+make
+#1621880035
+./prog4
+#1621880354
+./prog4
+#1621880744
+./prog4
+#1621880749
+./prog4
+#1621880919
+make
+#1621880921
+./prog4
+#1621880933
+./prog4
+#1621881152
+make
+#1621881154
+./prog4
+#1621881223
+make
+#1621881225
+./prog4
+#1621881352
+make
+#1621881353
+./prog4
+#1621881811
+make
+#1621881876
+make
+#1621881963
+make
+#1621881982
+make
+#1621881986
+./prog4
+#1621882632
+arm64-debug
+#1621883092
+arm64-debug
+#1621883282
+arm64-debug
+#1621883722
+arm64-debug
+#1621884573
+arm64-debug
+#1621884720
+make
+#1621884722
+./prog4
+#1621884814
+make
+#1621884816
+./prog4
+#1621884890
+make
+#1621884892
+./prog4
+#1621884903
+./prog4
+#1621884908
+arm64-debug
+#1621885387
+make
+#1621885395
+arm64-debug
+#1621885592
+./prog4
+#1621885596
+./prog4
+#1621885615
+./prog4
+#1621885620
+./prog4
+#1621885627
+./prog4
+#1621885634
+./prog4
+#1621885661
+./prog4
+#1621885689
+./prog4
+#1621885841
+arm64-debug
+#1621886340
+arm64-debug
+#1621886732
+arm64-debug
+#1621887117
+arm64-debug
+#1621887403
+arm64-debug
+#1621887673
+make
+#1621887675
+./prog4
+#1621888709
+cd prog4
+#1621888712
+make
+#1621888714
+./prog4
+#1621888718
+ls
+#1621888719
+ls -la
+#1621888725
+nano logfile
+#1621888784
+./prog4
+#1621888791
+ls -la
+#1621888796
+nano logfile
+#1621888838
+nano logfile
+#1621888934
+MAKE
+#1621888936
+make
+#1621888938
+./prog4
+#1621888946
+ls -la
+#1621888952
+nano logfile
+#1621888995
+make
+#1621888997
+./prog4
+#1621889004
+ls -la
+#1621889008
+nano logfile
+#1621889520
+make
+#1621889522
+./prog4
+#1621889758
+make
+#1621889761
+./prog4
+#1621889765
+ls -la
+#1621889768
+nano logfile
+#1621889786
+./prog4
+#1621889790
+nano logfile
+cd prog4
+nano prog4.s
+ls -la
+nano logfile
+ls
+ls 0la
+ls -la
+nano logfile
+ls
+ls -la
+ls -la
+nano logfile
+rm logfile
+ls -la
+ls -la
+nano prog4.s
+ls -la
+nano logfile
+nano prog4.s
+cd prog4
+make
+./prog4
+make
+./prog4
+./prog4
+arm64-debu
+arm64-debug
+make
+arm64-debug
+cd prog4
+nano prog4.s
+ls
+make
+./prog4
+ls
+arm64-debug
+ls
+cd ..
+cd ..
+cd ..
+ls
+cd info
+ls
+cd asm
+ls
+cd prog15
+ls
+nano prog15.s
+nano prog15.s
+cd ..
+ls
+cd prog16
+ls
+nano prog16.s
+cd ..
+cd prog15
+nano prog15.s
+cd prog4
+nano prog4.s
+ls
+nano prog4.s
+make
+arm64-debug
+make
+arm64-debug
+cd prog4
+ls
+make
+./prog4
+cd ..
+ls
+cd prog3
+ls
+rm out out1 pass pass1
+ls
+nano prog3
+nano prog3.s
+cd ..
+cd prog4
+nano prog4.s
+ls
+nano prog4.s
+cd ..
+ls
+cd prog3
+nano prog4.s
+nano prog3.s
+arm64-run ./prog4
+cd ..
+cd prog4
+arm64-run ./prog4
+arm64-debug
+./prog4s
+./prog4
+arm64-debug
+nano prog4.s
+arm64-debug
+arm64-debug
+nano prog4.s
+make
+./prog4.s
+./prog4
+nano prog4.s
+make
+arm64-debug
+arm64-debug
+nano prog4.s
+make
+./prog4s
+./prog4
+nano prog4.s
+make
+./prog4 
+ls
+nano prog4.s
+make
+./prog4
+nano prog4.s
+cd prog4
+cd ..
+cd ..
+cd ..
+ls
+cd b19503
+ls
+ls -la
+cd b1950306
+ls
+cd pupa3
+ls
+nano prog3.s
+cd ..
+ls
+cd pupa3
+ls
+nano fff
+cd ..
+cd ..
+ls
+ls -la
+cd b1950319
+ls
+nano prog4.s
+cd ..
+ls
+cd ..
+cd b19513
+ls -la
+cd b1951303
+ls
+cd prog3
+cd ..
+cd prog4
+ls
+nano prog4.s
+cd ..
+cd ..
+ls -la
+cd b1951312
+ls
+cd lab04
+ls
+cd main,s
+cd main.s
+nanp main.s
+nano main.s
+cd ..
+cd ..
+cd ..
+ls
+cd b19505
+ls -la
+cd ..
+cd b19515
+ls -la
+cd ..
+cd ..
+ls
+cd students
+cd student
+ls
+cd b19503
+ls
+ls -la
+cd b1950305
+cd b1950306
+ls
+cd pipa
+ls
+cd ..
+cd pupa
+cd pupa3
+ls
+nano prog3.s
+cd ..
+cd ..
+cd ..
+cd b19513/b1951306
+ls
+cd prog4
+ls
+nano prog4.s
+#1622018345
+cd prog4
+#1622018345
+ls
+#1622018372
+nano prog4.s
+#1622019254
+cd ..
+#1622019262
+mkdir prog5
+#1622019263
+ls
+#1622019268
+cd ..
+#1622019280
+cd ..
+#1622019281
+ls
+#1622019285
+cd b19513
+#1622019289
+cd b19503
+#1622019294
+cd b1951303
+#1622019295
+ls
+#1622019421
+cd prog5
+#1622019423
+ls
+#1622020054
+cd include
+#1622020056
+ls
+#1622020059
+cd ..
+#1622020163
+ls
+#1622020167
+nano lib
+#1622020198
+cd lib
+#1622020199
+ls
+#1622020307
+cd pkgconfig
+#1622020308
+ls
+#1622020384
+cd ..
+#1622020385
+ls
+#1622020388
+cd ..
+#1622020391
+ls
+#1622020400
+cd include
+#1622020400
+ls
+#1622020402
+cd ..
+#1622020403
+ls
+#1622020525
+nano test.png
+#1622020541
+nano main.c
+#1622020687
+ls
+#1622020694
+nano main.c
+#1622021267
+cd ..
+#1622021280
+cd ..
+#1622021284
+cd b1951306
+#1622021285
+ls
+#1622021287
+cd prog4
+#1622021288
+ls
+#1622021310
+nano prog4.s
+#1622021638
+cd ..
+#1622021640
+cd prog4
+#1622021648
+cd ../prog5
+#1622019449
+cd prog5
+#1622019449
+ls
+#1622019497
+cp -r b19513/b1951303/prog5 ./
+#1622019618
+cp -r b19513/b1951303/prog5 b19513/b1951306/prog5
+#1622019625
+cp b19513/b1951303/prog5 b19513/b1951306/prog5
+#1622019641
+cp ./b19513/b1951303/prog5 ./b19513/b1951306/prog5
+#1622019647
+cp /b19513/b1951303/prog5 ./b19513/b1951306/prog5
+#1622019654
+cp b19513/b1951303/prog5 ./b19513/b1951306/prog5
+#1622019664
+cp ./b19513/b1951303/prog5 ./b19513/b1951306/prog5
+#1622019672
+cd ..
+#1622019673
+cd ..
+#1622019674
+cd ..
+#1622019675
+cd ..
+#1622019680
+cd student
+#1622019683
+cd b19513
+#1622019704
+cp /b1951303/prog5 /b1951306/prog5
+#1622019714
+cp ./b1951303/prog5 /b1951306/prog5
+#1622019723
+cp ./b1951303/prog5 ./b1951306/prog5
+#1622019730
+cd b1951306
+#1622019735
+cd prog5
+#1622019735
+ls
+#1622019814
+cp ./b1951303/prog5/include ./b1951306/prog5
+#1622019830
+cp ./b19513/b1951303/prog5/include ./b1951306/prog5
+#1622019839
+cp ./student/b19513/b1951303/prog5/include ./b1951306/prog5
+#1622019926
+cp /student/b19513/b1951303/prog5/include ./b1951306/prog5
+#1622019933
+ls
+#1622020021
+cp /student/b19513/b1951303/prog5/include 
+#1622020032
+cp /student/b19513/b1951303/prog5/include /prog5
+#1622020084
+cp /student/b19513/b1951303/prog5/include/zconf.h /prog5/include
+#1622020097
+mkdir include
+#1622020098
+cp /student/b19513/b1951303/prog5/include/zconf.h /prog5/include
+#1622020107
+cp /student/b19513/b1951303/prog5/include/zconf.h ./prog5/include
+#1622020115
+cd ..
+#1622020117
+cd ..
+#1622020118
+cd..
+#1622020148
+cp b1951303/prog5/include/zconf.h b1951306/prog5/include/
+#1622020157
+cp b1951303/prog5/include/zlib.h b1951306/prog5/include/
+#1622020188
+cp b1951303/prog5/lib b1951306/prog5//
+#1622020190
+cp b1951303/prog5/lib b1951306/prog5/
+#1622020227
+mkdir b1951306/prog5/lib
+#1622020240
+cp b1951303/prog5/lib/libz.a b1951306/prog5/lib
+#1622020245
+cp b1951303/prog5/lib/libz.so b1951306/prog5/lib
+#1622020252
+cp b1951303/prog5/lib/libz.so.1 b1951306/prog5/lib
+#1622020256
+cp b1951303/prog5/lib/libz.so.1.2.11 b1951306/prog5/lib
+#1622020265
+cp b1951303/prog5/lib/pkgconfig b1951306/prog5/lib
+#1622020340
+mkdir b1951306/prog5/lib/pkgconfig
+#1622020380
+cp b1951303/prog5/lib/pkgconfig/zlib.pc b1951306/prog5/lib/pkgconfig
+#1622020422
+cp b1951303/prog5/spng.c b1951306/prog5/
+#1622020431
+cp b1951303/prog5/spng.h b1951306/prog5/
+#1622020440
+cp b1951303/prog5/Makefile b1951306/prog5/
+#1622020471
+cd b1951306
+#1622020472
+ls
+#1622020475
+cd prog5
+#1622020476
+ls
+#1622020481
+nano Makefile
+#1622020516
+touch main.c
+#1622020556
+nano main.c
+#1622021348
+cd ..
+#1622021351
+cd prog4
+#1622021351
+ls
+#1622021356
+nano logfile
+#1622021376
+./prog4
+#1622021396
+nano logfile
+#1622021667
+cd ../prog5
+#1622021780
+cd ..
+#1622021781
+cd ..
+#1622021782
+cd ..
+#1622021786
+cd b19503
+#1622021788
+ls -la
+#1622021818
+cd b1950311
+#1622021819
+ls
+#1622021843
+cd lab5
+#1622021844
+ls
+#1622021855
+nano main.c
+#1622021980
+nano time.xlsx
+#1622021989
+vi time.xlsx
+#1622022009
+ls -la
+#1622022013
+ls
+#1622022049
+nano prog.s
+#1622022938
+ls
+#1622023409
+nano prog.s
+#1622023421
+nano main.c
+#1622023617
+nano main.h
+#1622023888
+nano main.c
+#1622025490
+ls
+#1622022949
+cd ..
+#1622022960
+cd b1951303
+#1622022961
+ls
+#1622022964
+cd prog5
+#1622022964
+ls
+#1622022970
+nano main.c
+#1622026994
+cd ..
+#1622026996
+cd ..
+#1622026996
+cd ..
+#1622027000
+cd b19503
+#1622027004
+cd b1951311
+#1622027007
+cd b1950311
+#1622027010
+ls -la
+#1622027022
+cd b1950306
+#1622027024
+ls
+#1622027026
+cd ..
+#1622027029
+cd b1950306
+#1622027032
+cd ..
+#1622027032
+ls
+#1622027033
+ls -la
+#1622027219
+cd ..
+#1622027223
+cd b19513
+#1622027226
+cd b1951306
+#1622027227
+ls
+#1622027229
+cd prog5
+#1622027230
+ls
+#1622027234
+nano stb.h
+#1622022929
+cd prog4
+#1622022932
+cd ..
+#1622022934
+cd prog5
+#1622023604
+ls
+#1622023608
+nano main.c
+#1622023631
+touch main.h
+#1622023635
+nano main.h
+#1622023894
+nano main.h
+#1622023897
+nano main.c
+#1622026895
+ls
+#1622026915
+rm include lib main.c main.h Makefile spng.c sphg.h
+#1622026952
+rmdir lib include \
+#1622026955
+rmdir lib include
+#1622026973
+rm -R lib
+#1622026976
+rm -R include
+#1622026976
+ls
+#1622026981
+rm spng.h
+#1622026982
+ls
+#1622026984
+cd ..
+#1622026987
+cd prog5
+#1622027093
+touch stb.h
+#1622027095
+ls
+#1622027098
+cd stb.h
+#1622027101
+nano stb.h
+#1622027528
+nano stb.dhs
+#1622034845
+cd ..
+#1622034847
+cd prog4
+#1622034848
+ls
+#1622034872
+nano prog14.s
+#1622034911
+ls
+#1622034916
+nano Makefile
+#1622035746
+cd ../prog5
+#1622038612
+cd prog4
+#1622038613
+ls
+#1622038616
+cd prog4.s
+#1622038619
+nano prog4.s
+#1622039011
+cd ../prog5
+#1622039012
+ls
+#1622039017
+nano stb.h
+#1622039029
+cd ..
+#1622039030
+cd ..
+#1622039031
+cd ..
+#1622039034
+b19513
+#1622039037
+cd b19513
+#1622039040
+ls -la
+#1622039048
+cd b1951312
+#1622039049
+ls
+#1622039059
+cd lab05
+#1622039059
+ls
+#1622039074
+cd ..
+#1622039077
+cd core
+#1622039080
+nano core
+#1622039083
+ls
+#1622039092
+cd lab05
+#1622039092
+ls
+#1622039109
+nano out5.bmp
+#1622039122
+cd ..
+#1622039123
+ls
+#1622039126
+cd ..
+#1622039127
+ls -la
+#1622042653
+cd prog5
+#1622042654
+ls
+#1622042655
+ls -la
+#1622042989
+ls -la
+#1622042997
+touch new
+#1622043001
+vi new
+#1622043019
+ls -la
+#1622043026
+rm .new.swp
+#1622043029
+vi new
+#1622043128
+ls -la
+#1622043136
+rm .new.swp
+#1622042321
+cd prog5
+#1622042321
+ls
+#1622042325
+ls -la 
+#1622042339
+.stb_image.h.swp
+#1622042344
+rm .stb_image.h.swp
+#1622042583
+ls -la
+#1622042592
+x.z';mapkivim stb_image.h
+#1622042826
+
+#1622042830
+ls
+#1622042835
+ls -la
+#1622042843
+rm .stb_image.h.swp
+#1622042849
+rm stb_image.h
+#1622042855
+vim stb_image.h
+#1622042868
+ls -la
+#1622042879
+rm .stb_image.h.swp
+#1622042898
+vi stb_image.h
+#1622045628
+ls -la
+#1622045858
+cd prog4
+#1622045860
+cd ..
+#1622045863
+cd prog5
+#1622045864
+ls -la
+#1622045943
+reset
+#1622046064
+kill $(pidof ping)
+cd prog5
+ls
+vi stb.h
+ls -la
+nano stb.h
+ls -la
+touch stb_image.h
+vi stb_image.h
+ls -la
+rm .stb_image.h.swp
+nano stb_image.h
+ls -la
+nano stb_image.h
+vi stb_image.h
+ps
+kill 31307
+ps
+kill $(31307)
+kill $(pidof 31307)
+kill 31307
+ps
+kill 335
+kill 31404
+pidof
+top
+kill 799
+kill $(113)
+kill 2606
+kill 6817
+kill 12988
+cd prog5
+ld
+ls -la
+rm stb_image.h .stb_image.h.swp
+ls -la
+ды
+ls
+touch stb_image.h
+vi stb_image.h
+ls -la 
+vi .stb_image.h.swp
+rm .stb_image.h.swp
+ls -la
+rm .stb_image.h.swp.swp
+ls -la
+ls -la
+vi stb_image.h
+ls -la
+rm .stb_image.h.swp
+ls -la
+nano stb_image.h
+ls -la
+vi stb_image.h
+ls -la
+rm .stb_image.h.swp
+ls -la
+vim
+ls -la
+rm .swp
+vim stb_image.h
+ls -la
+vim stb_image.h
+ls -la
+rm .stb_image.h.swp
+vim stb_image.h
+top
+top
+cd prog5
+ls
+ls -la
+vi new
+ls -la
+cd prog5
+ls -la
+rm .new.swp
+top
+kill 4304
+#1622047721
+cd ..
+#1622047723
+cd ..
+#1622047726
+cd b19503
+#1622047729
+cd b1951311
+#1622047732
+ls -la
+#1622047743
+cd b1950319
+#1622047745
+ls 
+#1622047747
+cd ..
+#1622047929
+ls -la
+#1622047936
+cd b1951311
+#1622047940
+cd b1950311
+#1622047942
+ls
+#1622048159
+cp -r lab5 ~/lab5
+#1622047708
+cd prog5
+#1622047710
+ls -la
+#1622047712
+rm new
+#1622047716
+rm stb.h
+#1622048002
+cp ./b19503/b1950311/lab5 
+#1622048007
+cp ./b19503/b1950311/lab5 ./
+#1622048009
+cp ./b19503/b1950311/lab5 /
+#1622048014
+cp ./b19503/b1950311/lab5 ./lab5
+#1622048026
+cp ./b19503/b1950311/lab5 ./b19513/b1951306/
+#1622048029
+cp ./b19503/b1950311/lab5 ./b19513/b1951306/prog5
+#1622048055
+cp ./b19503/b1950311/lab5/ ./b19513/b1951306/prog5
+#1622048096
+cp ./b19503/b1950311/lab5/ /
+#1622048100
+cp /b19503/b1950311/lab5/ /
+#1622048106
+cp student/b19503/b1950311/lab5/ /
+#1622048109
+cp ./student/b19503/b1950311/lab5/ /
+#1622048123
+cp -r ./student/b19503/b1950311/lab5/ /
+#1622048162
+cd ..
+#1622048164
+ls
+#1622048194
+cd lab5
+#1622048195
+ls 
+#1622048206
+cd ..

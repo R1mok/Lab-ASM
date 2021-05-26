@@ -1,0 +1,262 @@
+# Этот файл viminfo автоматически создан Vim 7.4.
+# Его можно (осторожно!) редактировать.
+
+# Значение опции 'encoding' в момент записи файла
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Последний Шаблон поиска:
+~MSle0~/* stb.h - v2.37 - Sean's Tool Box -- public domain -- http:
+
+# Командная строка, история (начиная от свежего к старому):
+:wq!
+:q
+:wq
+
+# Строка поиска, история (начиная от свежего к старому):
+?/* stb_image - v2.26 - public domain image loader - http://nothings.org/stb
+?/* stb.h - v2.37 - Sean's Tool Box -- public domain -- http://nothings.org/stb.h
+
+# Выражение, история (начиная от свежего к старому):
+
+# Строка ввода, история (начиная от свежего к старому):
+
+# Строка ввода, история (начиная от свежего к старому):
+
+# Регистры:
+"1	LINE	0
+	aaaaa ddddd fffff ccccc aaaaa ddddd fffff ccccc aaaaa ddddd fffff ccccc aaaaa ddddd fffff ccccc aaaaa ddddd fffff ccccc aaaaa ddddd fffff ccccc aaaaa ddddd fffff ccccc aaaaa ddddd fffff ccccc aaaaa ddddd fffff ccccc
+"2	LINE	0
+	aaaaa ddddd fffff ccccc aaaaa ddddd fffff ccccc aaaaa ddddd fffff ccccc aaaaa ddddd fffff ccccc aaaaa ddddd fffff ccccc aaaaa ddddd fffff ccccc aaaaa ddddd fffff ccccc aaaaa ddddd fffff ccccc aaaaa ddddd fffff ccccc
+"q	CHAR	0
+	
+""-	CHAR	0
+	4:0:root:/root:/bin/bash
+
+# Глобальные отметки:
+'0  2  0  ~/prog5/new
+'1  1  118  ~/prog5/.stb_image.h.swp
+'2  27264  0  ~/prog5/stb.h
+'3  5  18  /student/b19503/b1950311/lab5/time.xlsx
+'4  70  0  ~/prog4/core
+'5  30  0  ~/prog3/pass1
+'6  535  0  ~/prog3/pass
+'7  71  0  ~/prog3/pass
+'8  1  1  ~/prog2/prog2.s
+'9  1  0  ~/prog3/out
+
+# Список прыжков (сначала более свежие):
+-'  2  0  ~/prog5/new
+-'  1  0  ~/prog5/new
+-'  1  118  ~/prog5/.stb_image.h.swp
+-'  27264  0  ~/prog5/stb.h
+-'  1  0  ~/prog5/stb.h
+-'  5  18  /student/b19503/b1950311/lab5/time.xlsx
+-'  14  0  /student/b19503/b1950311/lab5/time.xlsx
+-'  70  0  ~/prog4/core
+-'  1  0  ~/prog4/core
+-'  30  0  ~/prog3/pass1
+-'  1  0  ~/prog3/pass1
+-'  535  0  ~/prog3/pass
+-'  18  0  ~/prog3/pass
+-'  1  0  ~/prog3/pass
+-'  71  0  ~/prog3/pass
+-'  1  1  ~/prog2/prog2.s
+-'  94  24  ~/prog3/pass
+-'  1  0  ~/prog3/out
+-'  1  49  ~/prog3/out.txt
+-'  6  51  ~/prog3/file
+-'  1  0  ~/prog3/file
+-'  1  0  ~/prog3/out1
+-'  1  84  ~/prog3/fil1
+-'  3  43  ~/prog3/file
+-'  1  0  /var/log/wtmp
+-'  1  214  ~/prog3/file2
+-'  1  0  ~/prog3/file1
+-'  1  11  ~/prog3/text
+-'  1  1  ~/prog3/prog3.s
+-'  25  1  ~/prog3/prog3.s
+-'  20  20  ~/prog2/prog2.s
+-'  22  1  ~/prog2/prog2.s
+-'  1  0  ~/prog1/prog1.s
+-'  18  8  ~/prog1/prog1.s
+-'  1  0  ~/prog1/prog1.s
+-'  18  8  ~/prog1/prog1.s
+-'  1  0  ~/prog1/prog1.s
+-'  18  8  ~/prog1/prog1.s
+-'  1  0  ~/prog1/prog1.s
+-'  18  8  ~/prog1/prog1.s
+-'  1  0  ~/prog1/prog1.s
+-'  18  8  ~/prog1/prog1.s
+-'  1  0  ~/prog1/prog1.s
+-'  18  8  ~/prog1/prog1.s
+-'  1  0  ~/prog1/prog1.s
+-'  18  8  ~/prog1/prog1.s
+-'  1  0  ~/prog1/prog1.s
+-'  18  8  ~/prog1/prog1.s
+-'  1  0  ~/prog1/prog1.s
+-'  18  8  ~/prog1/prog1.s
+-'  1  0  ~/prog1/prog1.s
+-'  18  8  ~/prog1/prog1.s
+-'  1  0  ~/prog1/prog1.s
+-'  18  8  ~/prog1/prog1.s
+-'  1  0  ~/prog1/prog1.s
+-'  18  8  ~/prog1/prog1.s
+-'  1  0  ~/prog1/prog1.s
+-'  18  8  ~/prog1/prog1.s
+-'  1  0  ~/prog1/prog1.s
+-'  18  8  ~/prog1/prog1.s
+-'  1  0  ~/prog1/prog1.s
+-'  18  8  ~/prog1/prog1.s
+-'  1  0  ~/prog1/prog1.s
+-'  18  8  ~/prog1/prog1.s
+-'  1  0  ~/prog1/prog1.s
+-'  18  8  ~/prog1/prog1.s
+-'  1  0  ~/prog1/prog1.s
+-'  18  8  ~/prog1/prog1.s
+-'  1  0  ~/prog3/output
+-'  1  0  ~/prog1/prog1.s
+-'  18  8  ~/prog1/prog1.s
+-'  1  0  ~/prog1/prog1.s
+-'  18  8  ~/prog1/prog1.s
+-'  1  0  ~/prog1/prog1.s
+-'  18  8  ~/prog1/prog1.s
+-'  1  0  ~/prog1/prog1.s
+-'  18  8  ~/prog1/prog1.s
+-'  1  0  ~/prog1/prog1.s
+-'  18  8  ~/prog1/prog1.s
+-'  1  0  ~/prog1/prog1.s
+-'  18  8  ~/prog1/prog1.s
+-'  1  0  ~/prog1/prog1.s
+-'  18  8  ~/prog1/prog1.s
+-'  1  0  ~/prog1/prog1.s
+-'  18  8  ~/prog1/prog1.s
+-'  1  0  ~/prog1/prog1.s
+-'  18  8  ~/prog1/prog1.s
+-'  1  0  ~/prog1/prog1.s
+-'  18  8  ~/prog1/prog1.s
+-'  1  0  ~/prog1/prog1.s
+-'  18  8  ~/prog1/prog1.s
+-'  1  0  ~/prog1/prog1.s
+-'  18  8  ~/prog1/prog1.s
+-'  1  0  ~/prog1/prog1.s
+-'  18  8  ~/prog1/prog1.s
+-'  1  0  ~/prog1/prog1.s
+-'  18  8  ~/prog1/prog1.s
+-'  1  1  ~/prog2/prog2.s
+-'  1  0  ~/prog3/out
+
+# История местных отметок (от более свежих к старым):
+
+> ~/prog5/new
+	"	2	0
+	^	1	0
+	.	1	4
+	+	1	4
+
+> ~/prog5/.stb_image.h.swp
+	"	1	118
+	.	1	112
+	+	1	112
+
+> ~/prog5/stb_image.h
+	"	1	0
+	k	1	0
+
+> ~/prog5/stb.h
+	"	207	0
+	^	27264	0
+	.	27264	0
+	+	27263	78
+	+	27264	0
+
+> /student/b19503/b1950311/lab5/time.xlsx
+	"	5	18
+	.	1	0
+	+	1	0
+
+> ~/prog4/core
+	"	70	0
+
+> ~/prog3/pass1
+	"	30	0
+	^	1	9
+	.	22	20
+	+	1	8
+	+	2	9
+	+	22	20
+
+> ~/prog3/pass
+	"	94	49
+	.	94	48
+	+	94	48
+
+> ~/prog2/prog2.s
+	"	1	1
+
+> ~/prog3/file1
+	"	1	0
+	^	1	4
+	.	1	3
+	+	1	3
+
+> ~/prog3/file
+	"	1	0
+	^	6	52
+	.	7	0
+	+	1	95
+	+	7	0
+
+> ~/prog3/out1
+	"	1	0
+	^	1	0
+	.	1	0
+	+	1	1
+	+	1	0
+
+> ~/prog3/out
+	"	1	0
+
+> ~/prog3/out.txt
+	"	1	0
+
+> ~/prog3/fil1
+	"	1	0
+
+> /var/log/wtmp
+	"	1	0
+
+> ~/prog3/file2
+	"	1	0
+
+> ~/prog3/text
+	"	1	0
+
+> ~/prog3/prog3.s
+	"	25	1
+
+> ~/prog3/file.txt
+	"	1	12
+	^	1	42
+	.	1	13
+	+	1	13
+
+> ~/prog3/out2
+	"	1	0
+
+> ~/prog3/nano
+	"	1	0
+	^	1	0
+	.	1	0
+	+	1	0
+
+> /etc/passwd
+	"	1	21
+
+> ~/prog3/sour2
+	"	3	0
+
+> ~/prog3/sour1
+	"	5	14
