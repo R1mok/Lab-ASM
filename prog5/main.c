@@ -23,7 +23,7 @@ int convert(char *input, char *output) {
 	int t = clock();
     data = reflect(data, x, y, n);
 	t = clock() - t;
-    if (!stbi_write_png(output, x, y, n, data, 10))
+    if (!stbi_write_png(output, x, y, n, data, 1))
         return -2;
     stbi_image_free(data);
     return t;
