@@ -3,8 +3,8 @@
 
 unsigned char *reflect(unsigned char *data, int x, int y, int n) {
     unsigned char tmp;
-    for (int i = 0; i < y / 2; ++i) {
-        for (int j = 0; j < x; ++j) {
+    for (int i = 0; i < y; ++i) {
+        for (int j = 0; j < x / 2; ++j) {
             for (int l = 0; l < n; ++l) {
                 tmp = data[i * x * n + j * n + l];
                 data[i * x * n + j * n + l] = data[(i + 1) * x * n - n - j * n + l];
