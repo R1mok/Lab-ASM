@@ -36,18 +36,19 @@
 	4:0:root:/root:/bin/bash
 
 # Глобальные отметки:
-'0  2  0  ~/prog5/new
-'1  1  118  ~/prog5/.stb_image.h.swp
-'2  27264  0  ~/prog5/stb.h
-'3  5  18  /student/b19503/b1950311/lab5/time.xlsx
-'4  70  0  ~/prog4/core
-'5  30  0  ~/prog3/pass1
-'6  535  0  ~/prog3/pass
-'7  71  0  ~/prog3/pass
-'8  1  1  ~/prog2/prog2.s
-'9  1  0  ~/prog3/out
+'0  1  0  ~/lab5/main.o
+'1  2  0  ~/prog5/new
+'2  1  118  ~/prog5/.stb_image.h.swp
+'3  27264  0  ~/prog5/stb.h
+'4  5  18  /student/b19503/b1950311/lab5/time.xlsx
+'5  70  0  ~/prog4/core
+'6  30  0  ~/prog3/pass1
+'7  535  0  ~/prog3/pass
+'8  71  0  ~/prog3/pass
+'9  1  1  ~/prog2/prog2.s
 
 # Список прыжков (сначала более свежие):
+-'  1  0  ~/lab5/main.o
 -'  2  0  ~/prog5/new
 -'  1  0  ~/prog5/new
 -'  1  118  ~/prog5/.stb_image.h.swp
@@ -145,10 +146,11 @@
 -'  18  8  ~/prog1/prog1.s
 -'  1  0  ~/prog1/prog1.s
 -'  18  8  ~/prog1/prog1.s
--'  1  1  ~/prog2/prog2.s
--'  1  0  ~/prog3/out
 
 # История местных отметок (от более свежих к старым):
+
+> ~/lab5/main.o
+	"	1	0
 
 > ~/prog5/new
 	"	2	0
