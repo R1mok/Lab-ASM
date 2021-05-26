@@ -6,9 +6,9 @@ unsigned char *reflect(unsigned char *data, int x, int y, int n) {
     for (int i = 0; i < x; ++i) {
         for (int j = 0; j < y / 2; ++j) {
             for (int l = 0; l < n; ++l) {
-                tmp = data[i * y * n + j * n + l];
-                data[i * y * n + j * n + l] = data[(i + 1) * y * n - n -  j * n + l];
-                data[(i + 1) * y * n - n - j * n + l] = tmp;
+                tmp = data[j * y * n + i * n + l];
+                data[j * y * n + i * n + l] = data[(j + 1) * y * n - n -  i * n + l];
+                data[(j + 1) * y * n - n - i * n + l] = tmp;
             }
         }
     }
